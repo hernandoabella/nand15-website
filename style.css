@@ -544,3 +544,20 @@ body.light .switch-wrap p span:nth-child(1):before {
     border-radius: 50%;
     box-shadow: 0 0 0 20px rgba(255,255,255,.1);
 }
+
+.social{
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	font-size: 1.5em;
+	margin: 40px;
+}
+
+.social > i{
+	margin-right: 10px;
+}
+
+.social > a{
+	color: #fff;
+	margin-right: 10px;
+}
